@@ -10,15 +10,15 @@ IOT Testing Case
 
 
 
-###測試案例說明
+###測試案例說明 (Alpha v1.0.3)
 
 
-#### <i class="icon-pencil"></i> IOT控制台
+#### <i class="icon-pencil"></i> 1. IOT控制台
 ​溫濕度圖表內容顯示：
 
    - 點選右方「上傳記錄列表」進行查看
     
-#### <i class="icon-pencil"></i> 溫濕度圖表
+#### <i class="icon-pencil"></i> 2. 溫濕度圖表
 
 溫濕度篩選功能
 
@@ -32,7 +32,7 @@ IOT Testing Case
 
    - 於記錄列表內選取「即時溫濕度」，「歷史溫濕度」，點選下方表格紀錄呈現溫濕度圖表
 
-#### <i class="icon-pencil"></i> 圖形監控
+#### <i class="icon-pencil"></i> 3. 圖形監控
 
 公司名稱搜尋案場
 
@@ -46,7 +46,7 @@ IOT Testing Case
 
    - 於「設定溫度變化區間」輸入年月日，然後點選「觀看溫度變化」按鈕查看Tag圖示顏色變化
 
-#### <i class="icon-pencil"></i> 公司管理 / 公司基本資料設定
+#### <i class="icon-pencil"></i> 4. 公司管理 / 公司基本資料設定
 
 新增公司
 
@@ -61,7 +61,7 @@ IOT Testing Case
    - 點選公司表格內「勾選方塊」，完成後點選「刪除已勾選公司」
 
 
-#### <i class="icon-pencil"></i> 公司管理 / 群組管理設定
+#### <i class="icon-pencil"></i> 5. 公司管理 / 群組管理設定
 
 選擇公司
 
@@ -80,7 +80,7 @@ IOT Testing Case
    - 點選群組表格內「勾選方塊」，完成後點選「刪除已勾選群組」
 
 
-#### <i class="icon-pencil"></i> 公司管理 / 使用者管理設定
+#### <i class="icon-pencil"></i> 6. 公司管理 / 使用者管理設定
 
 選擇公司及群組
 
@@ -98,7 +98,7 @@ IOT Testing Case
   
   - 點選使用者表格內「勾選方塊」，完成後點選「刪除已勾選群組」
 
-#### <i class="icon-pencil"></i> 公司管理 / 場域管理
+#### <i class="icon-pencil"></i> 7. 公司管理 / 場域管理
 
 選擇公司
 
@@ -121,7 +121,7 @@ IOT Testing Case
 
 - 移動滑鼠至左方「圖形監控」區域Tag圖示，呈現即時溫濕度
 
-#### <i class="icon-pencil"></i> Tag設定管理
+#### <i class="icon-pencil"></i> 8. Tag設定管理
 
 選擇公司，場域及Tag類型
 
@@ -136,7 +136,7 @@ IOT Testing Case
 - 點選下方Tag列表內需修改的Tag「勾選方塊」，完成後點選「批量編輯已勾選Tag列表」，輸入「Tag名稱」或點選「Tag類型」，「Tag場域類型」下拉選單，設定Tag搭載感測器與紀錄時間間隔，完成後點選「儲存設定」
 
 
-#### <i class="icon-pencil"></i> 溫濕度警示設定
+#### <i class="icon-pencil"></i> 9. 溫濕度警示設定
 
 新增警示
 
