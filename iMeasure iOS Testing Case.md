@@ -43,7 +43,7 @@ iMeasure iOS Testing Case
 
 - 於場域總覽資訊內點選「所有藍牙感測器」，稍等連線數值增加後即可出現TAG資訊
 
-#### <i class="icon-pencil"></i> 3. TAG分享/刪除/最愛
+#### <i class="icon-pencil"></i> 4. TAG分享/刪除/最愛
 ![enter image description here](https://lh3.googleusercontent.com/-Vxl4_ylYi-c/V5HtgimWNkI/AAAAAAAACa4/LSCAqQKtMNMx9c8Q5zn9eMSiB71ppZucACLcB/s0/%25E8%259E%25A2%25E5%25B9%2595%25E5%25BF%25AB%25E7%2585%25A7+2016-07-22+%25E4%25B8%258B%25E5%258D%25885.53.13.png "螢幕快照 2016-07-22 下午5.53.13.png")
 
 TAG連線數值分享
@@ -58,6 +58,18 @@ TAG刪除
 
 - 於場域總覽資訊內點選「所有藍牙感測器」，等待TAG資訊出現後向左滑動該筆記錄後，點選「刪除」
 
-#### <i class="icon-pencil"></i> 4. TAG圖表顯示/即時資料/歷史資料
+#### <i class="icon-pencil"></i> 5. TAG圖表顯示/即時資料/歷史資料/統計圖表
 
-#### <i class="icon-pencil"></i> 4. TAG警示資訊
+察看即時與歷史圖表
+
+- 於場域總覽資訊內點選「所有藍牙感測器」，點選需察看TAG資訊
+
+![enter image description here](https://lh3.googleusercontent.com/-7n2GCKpwu2M/WRm9HdL4-SI/AAAAAAAACfU/5-hgbvDEgikL1z3YviXwwM9WsRaGThLCgCLcB/s0/image1.PNG "iMeasureChart1.PNG")
+
+察看統計圖表
+
+- 於場域總覽資訊內點選「所有藍牙感測器」，點選需察看TAG資訊、點選下方「More」
+
+![enter image description here](https://lh3.googleusercontent.com/-sHMiJ92-LW0/WRm-AdGj4xI/AAAAAAAACfg/YtYT9PlOad8WRul02I47uS6d5JCyHWfwACLcB/s0/image2.PNG "iMeasureChart2.PNG")
+
+#### <i class="icon-pencil"></i> 6. TAG警示資訊
